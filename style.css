@@ -26,17 +26,7 @@ nav {
     font-size: 2em;
     letter-spacing: 2px;
 }
-.menu ul{
-    display: flex;
-    list-style: none;
-}
 
-.menu a {
-    text-decoration: none;
-    color: white;
-    padding: 10px 20px;
-    font-size: 20px;
-}
 .register a {
     text-decoration: none;
     color: white;
